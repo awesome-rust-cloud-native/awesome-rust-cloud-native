@@ -10,4 +10,4 @@ This page is under construction.
 ## Additional Information
  
 - Created by [Nick Gerace](https://twitter.com/nickgeracehacks)
-- Belogs to the [Rust Cloud Native GitHub organization](https://github.com/rust-cloud-native/)
+- Belongs to the [Rust Cloud Native GitHub organization](https://github.com/rust-cloud-native/)
