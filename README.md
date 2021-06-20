@@ -1,4 +1,4 @@
-# rust-cloud-native.github.io
+# [rust-cloud-native.github.io](rust-cloud-native.github.io)
 
 A collection of resources about cloud native Rust.
 
