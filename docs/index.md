@@ -7,7 +7,7 @@ _This site belongs to the [Rust Cloud Native](https://github.com/rust-cloud-nati
 ## Status
 
 This page is under construction.
-[We are looking for contributions, and would love new PRs, issues, and discussion posts.](https://github.com/rust-cloud-native/rust-cloud-native.github.io)!
+We are looking for contributiors, and would love [new PRs, issues, and discussion posts](https://github.com/rust-cloud-native/rust-cloud-native.github.io)!
 
 ## Logo
 
