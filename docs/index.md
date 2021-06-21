@@ -11,4 +11,4 @@ We are looking for contributiors, and would love [new PRs, issues, and discussio
 
 ## Logo
 
-More information about the logo can be found in the [core repository](https://github.com/rust-cloud-native/rust-cloud-native.github.io/blob/main/logo/README.md).
+More information about the logo can be found in [its repository](https://github.com/rust-cloud-native/logo).
