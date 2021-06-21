@@ -1,6 +1,6 @@
 A collection of resources about cloud native [Rust](https://rust-lang.org).
 
-<img src="./logo/rust-cloud-native-logo.png" alt="rust-cloud-native-logo" width="300">
+<img src="https://raw.githubusercontent.com/rust-cloud-native/logo/main/img/rust-cloud-native-logo.png" alt="rust-cloud-native-logo" width="300">
 
 _This site belongs to the [Rust Cloud Native](https://github.com/rust-cloud-native/) GitHub organization._
 
