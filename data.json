@@ -1,0 +1,83 @@
+{
+  "applications": [
+    {
+      "title": "apache/incubator-teaclave",
+      "url": "https://github.com/apache/incubator-teaclave",
+      "description": "open source universal secure computing platform, making computation on privacy-sensitive data safe and simple"
+    },
+    {
+      "title": "bottlerocket-os/bottlerocket",
+      "url": "https://github.com/bottlerocket-os/bottlerocket",
+      "description": "an operating system designed for hosting containers"
+    },
+    {
+      "title": "containers/krunvm",
+      "url": "https://github.com/containers/krunvm",
+      "description": "manage lightweight VMs created from OCI images"
+    },
+    {
+      "title": "containers/youki",
+      "url": "https://github.com/containers/youki",
+      "description": "a container runtime written in Rust"
+    },
+    {
+      "title": "firecracker-microvm/firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "secure and fast microVMs for serverless computing"
+    },
+    {
+      "title": "krustlet/krustlet",
+      "url": "https://github.com/krustlet/krustlet",
+      "description": "Kubernetes Rust Kubelet"
+    },
+    {
+      "title": "kube-rs/controller-rs",
+      "url": "https://github.com/kube-rs/controller-rs",
+      "description": "a Kubernetes example controller"
+    },
+    {
+      "title": "kube-rs/version-rs",
+      "url": "https://github.com/kube-rs/version-rs",
+      "description": "example Kubernetes reflector and web server"
+    },
+    {
+      "title": "linkerd/linkerd2-proxy",
+      "url": "https://github.com/linkerd/linkerd2-proxy",
+      "description": "a purpose-built proxy for the Linkerd service mesh"
+    },
+    {
+      "title": "rancher-sandbox/lockc",
+      "url": "https://github.com/rancher-sandbox/lockc",
+      "description": "eBPF-based MAC security audit for container workloads"
+    },
+    {
+      "title": "tikv/tikv",
+      "url": "https://github.com/tikv/tikv",
+      "description": "distributed transactional key-value database"
+    },
+    {
+      "title": "valeriansaliou/sonic",
+      "url": "https://github.com/valeriansaliou/sonic",
+      "description": "fast, lightweight & schema-less search backend"
+    }
+  ],
+  "libraries": [
+    {
+      "title": "containers/libkrun",
+      "url": "https://github.com/containers/libkrun",
+      "description": "a dynamic library providing Virtualization-based process isolation capabilities"
+    },
+    {
+      "title": "kube-rs/kube-rs",
+      "url": "https://github.com/kube-rs/kube-rs",
+      "description": "Kubernetes Rust client and async controller runtime"
+    }
+  ],
+  "events": [
+    {
+      "title": "Cloud Native Rust Day EU 2021",
+      "url": "https://www.youtube.com/playlist?list=PLj6h78yzYM2MKPAas7pxIvueTbwFqVRCX",
+      "description": "the first-ever Cloud Native Rust Day (at KubeCon + CloudNativeCon EU 2021)"
+    }
+  ]
+}
