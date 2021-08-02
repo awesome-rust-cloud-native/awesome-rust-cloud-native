@@ -1,6 +1,8 @@
 A collection of resources about cloud native [Rust](https://rust-lang.org).
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/rust-cloud-native/logo/main/img/rust-cloud-native-logo.png" alt="rust-cloud-native-logo" width="200">
+</p>
 
 ## Applications and Services
 
