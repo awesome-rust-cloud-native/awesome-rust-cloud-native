@@ -9,7 +9,7 @@ A collection of resources about cloud native Rust.
 ## Have something you want on the site? Let's add it!
 
 Please file an issue with any and all information.
-We may accept PRs as well, but they *require* an issue to be created.
+We may accept PRs as well, but they *require* an issue if they are a project submission.
 
 If you are creating a PR, please add your information to `data.json` and execute `cargo run` at the root of the repository.
 The JSON file and content sections will be sorted for you.
