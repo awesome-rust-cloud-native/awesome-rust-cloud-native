@@ -41,6 +41,11 @@
       "description": "example Kubernetes reflector and web server"
     },
     {
+      "title": "kubewarden/policy-server",
+      "url": "https://github.com/kubewarden/policy-server",
+      "description": "webhook server that evaluates WebAssembly policies to validate Kubernetes requests"
+    },
+    {
       "title": "linkerd/linkerd2-proxy",
       "url": "https://github.com/linkerd/linkerd2-proxy",
       "description": "a purpose-built proxy for the Linkerd service mesh"
