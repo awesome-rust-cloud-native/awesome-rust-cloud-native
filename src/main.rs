@@ -39,31 +39,28 @@ fn process_projects(file_writer: &mut fs::File, projects: &[Project]) -> Result<
 }
 
 fn format_data_json(data: &Data) -> Data {
-    let applications = match data.applications.clone() {
-        Some(mut s) => {
-            s.sort();
-            Some(s)
-        }
-        None => None,
-    };
-    let libraries = match data.libraries.clone() {
-        Some(mut s) => {
-            s.sort();
-            Some(s)
-        }
-        None => None,
-    };
-    let events = match data.events.clone() {
-        Some(mut s) => {
-            s.sort();
-            Some(s)
-        }
-        None => None,
-    };
     Data {
-        applications,
-        libraries,
-        events,
+        applications: match data.applications.clone() {
+            Some(mut s) => {
+                s.sort();
+                Some(s)
+            }
+            None => None,
+        },
+        libraries: match data.libraries.clone() {
+            Some(mut s) => {
+                s.sort();
+                Some(s)
+            }
+            None => None,
+        },
+        events: match data.events.clone() {
+            Some(mut s) => {
+                s.sort();
+                Some(s)
+            }
+            None => None,
+        },
     }
 }
 
