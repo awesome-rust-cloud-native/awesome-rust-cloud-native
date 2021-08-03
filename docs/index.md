@@ -8,6 +8,17 @@ Rust Cloud Native
 A collection of resources about cloud native <a href="https://rust-lang.org">Rust</a>.
 </p>
 
+## Discussion and Collaboration
+
+We are currently using GitHub Issues and GitHub Discussions to track new ideas, feedback, collaboration, and community building.
+Please do not hesitate to to post.
+Let your voice be heard!
+
+- **[General and Site Issues](https://github.com/rust-cloud-native/rust-cloud-native.github.io/issues)**
+- **[General and Site Discussions](https://github.com/rust-cloud-native/rust-cloud-native.github.io/discussions)**
+- **[Organizational and "Meta" Issues](https://github.com/rust-cloud-native/core/issues)**
+- **[Organizational and "Meta" Discussions](https://github.com/rust-cloud-native/core/discussions)**
+
 ## Applications and Services
 
 <!-- start applications -->
@@ -48,3 +59,5 @@ We are looking for contributiors, and would love [new PRs, issues, and discussio
 **Logo**: More information about the logo can be found in [its repository](https://github.com/rust-cloud-native/logo).
 
 **Ownership**: This site belongs to the [Rust Cloud Native](https://github.com/rust-cloud-native/) GitHub organization.
+
+**Code of Conduct**: Each repository has the same Code of Conduct. You can find more information on the Code in the [core repository](https://github.com/rust-cloud-native/core#code-of-conduct).
