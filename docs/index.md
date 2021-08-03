@@ -19,7 +19,13 @@ Let your voice be heard!
 - **[Organizational and "Meta" Issues](https://github.com/rust-cloud-native/core/issues)**
 - **[Organizational and "Meta" Discussions](https://github.com/rust-cloud-native/core/discussions)**
 
-## Applications and Services
+## Featured Projects
+
+This section exists to showcase cloud native Rust projects and provide a collection of cloud native Rust resources.
+We feature projects that exist in our space for the purpose of connecting our greater community, but _we are not affiliated with these projects unless specified_.
+Explicit consent from maintainers and owners must be given for affiliation.
+
+### Applications and Services
 
 <!-- start applications -->
 - **[apache/incubator-teaclave](https://github.com/apache/incubator-teaclave)**: open source universal secure computing platform, making computation on privacy-sensitive data safe and simple
@@ -37,14 +43,14 @@ Let your voice be heard!
 - **[valeriansaliou/sonic](https://github.com/valeriansaliou/sonic)**: fast, lightweight & schema-less search backend
 <!-- end applications -->
 
-## Libraries
+### Libraries
 
 <!-- start libraries -->
 - **[containers/libkrun](https://github.com/containers/libkrun)**: a dynamic library providing Virtualization-based process isolation capabilities
 - **[kube-rs/kube-rs](https://github.com/kube-rs/kube-rs)**: Kubernetes Rust client and async controller runtime
 <!-- end libraries -->
 
-## Events
+### Events
 
 <!-- start events -->
 - **[Cloud Native Rust Day EU 2021](https://www.youtube.com/playlist?list=PLj6h78yzYM2MKPAas7pxIvueTbwFqVRCX)**: the first-ever Cloud Native Rust Day (at KubeCon + CloudNativeCon EU 2021)
