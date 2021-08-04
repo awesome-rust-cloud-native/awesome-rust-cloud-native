@@ -32,6 +32,7 @@ Explicit consent from maintainers and owners must be given for affiliation.
 - **[bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket)**: an operating system designed for hosting containers
 - **[containers/krunvm](https://github.com/containers/krunvm)**: manage lightweight VMs created from OCI images
 - **[containers/youki](https://github.com/containers/youki)**: a container runtime written in Rust
+- **[datafuselabs/datafuse](https://github.com/datafuselabs/datafuse)**: A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy
 - **[firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)**: secure and fast microVMs for serverless computing
 - **[krustlet/krustlet](https://github.com/krustlet/krustlet)**: Kubernetes Rust Kubelet
 - **[kube-rs/controller-rs](https://github.com/kube-rs/controller-rs)**: a Kubernetes example controller

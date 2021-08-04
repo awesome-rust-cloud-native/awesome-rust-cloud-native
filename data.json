@@ -21,6 +21,11 @@
       "description": "a container runtime written in Rust"
     },
     {
+      "title": "datafuselabs/datafuse",
+      "url": "https://github.com/datafuselabs/datafuse",
+      "description": "A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy"
+    },
+    {
       "title": "firecracker-microvm/firecracker",
       "url": "https://github.com/firecracker-microvm/firecracker",
       "description": "secure and fast microVMs for serverless computing"
