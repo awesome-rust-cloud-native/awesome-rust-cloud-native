@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/rust-cloud-native/logo/main/img/rust-cloud-native-logo.png" alt="rust-cloud-native-logo" width="350">
+<img src="https://raw.githubusercontent.com/rust-cloud-native/rust-cloud-native.github.io/main/logo/img/rust-cloud-native-logo.png" alt="rust-cloud-native-logo" width="350">
 </p>
 <h3 align="center">
 Rust Cloud Native
@@ -14,10 +14,12 @@ We are currently using GitHub Issues and GitHub Discussions to track new ideas, 
 Please do not hesitate to to post.
 Let your voice be heard!
 
-- **[General and Site Issues](https://github.com/rust-cloud-native/rust-cloud-native.github.io/issues)**
-- **[General and Site Discussions](https://github.com/rust-cloud-native/rust-cloud-native.github.io/discussions)**
-- **[Organizational and "Meta" Issues](https://github.com/rust-cloud-native/core/issues)**
-- **[Organizational and "Meta" Discussions](https://github.com/rust-cloud-native/core/discussions)**
+Topic | Description | [Find or file an issue?](https://github.com/rust-cloud-native/rust-cloud-native.github.io/issues) | [Find or start a discussion?](https://github.com/rust-cloud-native/rust-cloud-native.github.io/discussions)
+--- | --- | --- | ---
+Community | sharing, promoting, job posting, finding people to work on projects with, etc. | no | yes
+Projects | additions or changes to projects on the website | yes | no
+Technical | bugs, enhancements, features, etc. | yes | no (unless high-level, design-related)
+Organizational | "meta", goals, structure, etc. | no | yes
 
 ## Featured Projects
 
@@ -63,8 +65,8 @@ We are looking for contributiors, and would love [new PRs, issues, and discussio
 
 ## Additional Information
 
-**Logo**: More information about the logo can be found in [its repository](https://github.com/rust-cloud-native/logo).
+**Logo**: More information about the logo can be found in our [main repository](https://github.com/rust-cloud-native/rust-cloud-native.github.io/tree/main/logo).
 
-**Ownership**: This site belongs to the [Rust Cloud Native](https://github.com/rust-cloud-native/) GitHub organization.
+**Ownership**: This site belongs to the [Rust Cloud Native](https://github.com/rust-cloud-native) GitHub organization.
 
-**Code of Conduct**: Each repository has the same Code of Conduct. You can find more information on the Code in the [core repository](https://github.com/rust-cloud-native/core#code-of-conduct).
+**Code of Conduct**: Each repository has the same Code of Conduct. You can find more information on the Code in the [main repository](https://github.com/rust-cloud-native/rust-cloud-native.github.io/blob/main/CODE_OF_CONDUCT.md).
