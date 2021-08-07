@@ -1,6 +1,11 @@
 {
   "applications": [
     {
+      "title": "WasmEdge/WasmEdge",
+      "url": "https://wasmedge.org",
+      "description": "WasmEdge is a high-performance WebAssembly (Wasm) Virtual Machine (VM) runtime, which enables serverless functions to be embedded into any software platform; from cloud's edge to SaaS to automobiles"
+    },
+    {
       "title": "apache/incubator-teaclave",
       "url": "https://github.com/apache/incubator-teaclave",
       "description": "open source universal secure computing platform, making computation on privacy-sensitive data safe and simple"
@@ -66,12 +71,22 @@
       "description": "distributed transactional key-value database"
     },
     {
+      "title": "tremor-rs/tremor-runtime",
+      "url": "https://github.com/tremor-rs/tremor-runtime",
+      "description": "an event processing system that supporting complex workflows such as aggregation, rollups, an ETL language, and a query language"
+    },
+    {
       "title": "valeriansaliou/sonic",
       "url": "https://github.com/valeriansaliou/sonic",
       "description": "fast, lightweight & schema-less search backend"
     }
   ],
   "libraries": [
+    {
+      "title": "CNI Plugins",
+      "url": "https://github.com/passcod/cni-plugins",
+      "description": "crate/framework to write CNI (container networking) plugins in Rust (includes a few custom plugins as well)"
+    },
     {
       "title": "containers/libkrun",
       "url": "https://github.com/containers/libkrun",
