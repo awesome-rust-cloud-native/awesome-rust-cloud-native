@@ -42,21 +42,21 @@ fn format_data_json(data: &Data) -> Data {
     Data {
         applications: match data.applications.clone() {
             Some(mut s) => {
-                s.sort();
+                s.sort_by(|a, b| a.title.to_lowercase().cmp(&b.title.to_lowercase()));
                 Some(s)
             }
             None => None,
         },
         libraries: match data.libraries.clone() {
             Some(mut s) => {
-                s.sort();
+                s.sort_by(|a, b| a.title.to_lowercase().cmp(&b.title.to_lowercase()));
                 Some(s)
             }
             None => None,
         },
         events: match data.events.clone() {
             Some(mut s) => {
-                s.sort();
+                s.sort_by(|a, b| a.title.to_lowercase().cmp(&b.title.to_lowercase()));
                 Some(s)
             }
             None => None,

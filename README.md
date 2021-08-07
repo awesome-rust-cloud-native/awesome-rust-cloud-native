@@ -5,7 +5,7 @@
 This is the main repository for the Rust Cloud Native organization on GitHub.
 It contains the [website](https://rust-cloud-native.github.io), the [logo](./logo), goals, definitions, structures, processes, etc. for the organization.
 
-<img src="https://raw.githubusercontent.com/rust-cloud-native/logo/main/img/rust-cloud-native-logo.png" alt="rust-cloud-native-logo" width="200">
+<img src="./logo/img/rust-cloud-native-logo.png" alt="Rust Cloud Native logo, which features the Ferris crab mascot on a white cloud with a light blue background." width="200">
 
 ## What is the mission of this organization?
 

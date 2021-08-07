@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/rust-cloud-native/rust-cloud-native.github.io/main/logo/img/rust-cloud-native-logo.png" alt="rust-cloud-native-logo" width="350">
+<img src="https://raw.githubusercontent.com/rust-cloud-native/rust-cloud-native.github.io/main/logo/img/rust-cloud-native-logo.png" alt="Rust Cloud Native logo, which features the Ferris crab mascot on a white cloud with a light blue background." width="350">
 </p>
 <h3 align="center">
 Rust Cloud Native
@@ -30,7 +30,6 @@ Explicit consent from maintainers and owners must be given for affiliation.
 ### Applications and Services
 
 <!-- start applications -->
-- **[WasmEdge/WasmEdge](https://wasmedge.org)**: WasmEdge is a high-performance WebAssembly (Wasm) Virtual Machine (VM) runtime, which enables serverless functions to be embedded into any software platform; from cloud's edge to SaaS to automobiles
 - **[apache/incubator-teaclave](https://github.com/apache/incubator-teaclave)**: open source universal secure computing platform, making computation on privacy-sensitive data safe and simple
 - **[bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket)**: an operating system designed for hosting containers
 - **[containers/krunvm](https://github.com/containers/krunvm)**: manage lightweight VMs created from OCI images
@@ -46,6 +45,7 @@ Explicit consent from maintainers and owners must be given for affiliation.
 - **[tikv/tikv](https://github.com/tikv/tikv)**: distributed transactional key-value database
 - **[tremor-rs/tremor-runtime](https://github.com/tremor-rs/tremor-runtime)**: an event processing system that supporting complex workflows such as aggregation, rollups, an ETL language, and a query language
 - **[valeriansaliou/sonic](https://github.com/valeriansaliou/sonic)**: fast, lightweight & schema-less search backend
+- **[WasmEdge/WasmEdge](https://wasmedge.org)**: WasmEdge is a high-performance WebAssembly (Wasm) Virtual Machine (VM) runtime, which enables serverless functions to be embedded into any software platform; from cloud's edge to SaaS to automobiles
 <!-- end applications -->
 
 ### Libraries
