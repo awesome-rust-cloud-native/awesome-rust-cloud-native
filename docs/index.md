@@ -11,7 +11,8 @@ A collection of resources about cloud native <a href="https://rust-lang.org">Rus
 ## Discussion and Collaboration
 
 We are currently using GitHub Issues and GitHub Discussions to track new ideas, feedback, collaboration, and community building.
-Please do not hesitate to to post.
+In addition, we now have a [Discord server](https://discord.gg/799cmsYB4q) for a real-time chat platform.
+Please do not hesitate to post, talk, and share your ideas.
 Let your voice be heard!
 
 Topic | Description | [Find or file an issue?](https://github.com/rust-cloud-native/rust-cloud-native.github.io/issues) | [Find or start a discussion?](https://github.com/rust-cloud-native/rust-cloud-native.github.io/discussions)
