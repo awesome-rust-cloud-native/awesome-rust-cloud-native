@@ -56,6 +56,11 @@
       "description": "a purpose-built proxy for the Linkerd service mesh"
     },
     {
+      "title": "openebs/mayastor",
+      "url": "https://github.com/openebs/mayastor",
+      "description": "A cloud native declarative data plane in containers for containers"
+    },
+    {
       "title": "rancher-sandbox/lockc",
       "url": "https://github.com/rancher-sandbox/lockc",
       "description": "eBPF-based MAC security audit for container workloads"

@@ -42,6 +42,7 @@ Explicit consent from maintainers and owners must be given for affiliation.
 - **[kube-rs/version-rs](https://github.com/kube-rs/version-rs)**: example Kubernetes reflector and web server
 - **[kubewarden/policy-server](https://github.com/kubewarden/policy-server)**: webhook server that evaluates WebAssembly policies to validate Kubernetes requests
 - **[linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy)**: a purpose-built proxy for the Linkerd service mesh
+- **[openebs/mayastor](https://github.com/openebs/mayastor)**: A cloud native declarative data plane in containers for containers
 - **[rancher-sandbox/lockc](https://github.com/rancher-sandbox/lockc)**: eBPF-based MAC security audit for container workloads
 - **[tikv/tikv](https://github.com/tikv/tikv)**: distributed transactional key-value database
 - **[tremor-rs/tremor-runtime](https://github.com/tremor-rs/tremor-runtime)**: an event processing system that supporting complex workflows such as aggregation, rollups, an ETL language, and a query language
