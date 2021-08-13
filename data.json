@@ -101,6 +101,11 @@
       "title": "kube-rs/kube-rs",
       "url": "https://github.com/kube-rs/kube-rs",
       "description": "Kubernetes Rust client and async controller runtime"
+    },
+    {
+      "title": "qovery/engine",
+      "url": "https://github.com/Qovery/engine",
+      "description": "An open-source abstraction layer library that turns easy apps deployment on AWS, GCP, Azure, and other Cloud providers"
     }
   ],
   "events": [
