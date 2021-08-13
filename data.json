@@ -105,7 +105,7 @@
     {
       "title": "qovery/engine",
       "url": "https://github.com/Qovery/engine",
-      "description": "An open-source abstraction layer library that turns easy apps deployment on AWS, GCP, Azure, and other Cloud providers."
+      "description": "An open-source abstraction layer library that turns easy apps deployment on AWS, GCP, Azure, and other Cloud providers"
     }
   ],
   "events": [
