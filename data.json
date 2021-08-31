@@ -31,6 +31,11 @@
       "description": "secure and fast microVMs for serverless computing"
     },
     {
+      "title": "infinyon/fluvio",
+      "url": "https://github.com/infinyon/fluvio",
+      "description": "A cloud-native real-time data streaming platform with in-line computation capabilities"
+    },
+    {
       "title": "krustlet/krustlet",
       "url": "https://github.com/krustlet/krustlet",
       "description": "Kubernetes Rust Kubelet"
