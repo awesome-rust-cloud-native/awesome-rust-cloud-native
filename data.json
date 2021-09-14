@@ -111,6 +111,11 @@
       "title": "qovery/engine",
       "url": "https://github.com/Qovery/engine",
       "description": "An open-source abstraction layer library that turns easy apps deployment on AWS, GCP, Azure, and other Cloud providers"
+    },
+    {
+      "title": "open-telemetry/opentelemetry-rust",
+      "url": "https://github.com/open-telemetry/opentelemetry-rust",
+      "description": "OpenTelemetry is a set of APIs, SDKs, tooling and integrations that are designed for the creation and management of telemetry data such as traces, metrics, and logs."
     }
   ],
   "events": [
@@ -121,3 +126,4 @@
     }
   ]
 }
+
