@@ -1,6 +1,7 @@
 # [Rust Cloud Native](https://github.com/rust-cloud-native)
 
 ![License](https://img.shields.io/github/license/rust-cloud-native/rust-cloud-native.github.io?style=flat-square)
+[![Discord](https://img.shields.io/discord/874314181191565453?label=discord&style=flat-square&logo=discord)](https://discord.gg/799cmsYB4q)
 
 This is the main repository for the Rust Cloud Native organization on GitHub.
 It contains the [website](https://rust-cloud-native.github.io), the [logo](./logo), goals, definitions, structures, processes, etc. for the organization.
