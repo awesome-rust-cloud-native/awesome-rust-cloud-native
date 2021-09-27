@@ -41,6 +41,25 @@ However, you can refer to the [DEVELOPING](./DEVELOPING.md) file for help on sub
 You can customize the "watch" settings for this repository to keep up with issues and discussions.
 We will be exploring other avenues for providing updates in the future.
 
+## Governance
+
+The Rust Cloud Native GitHub organization's team members may help guide the course of the organization, but exist only to enable community voices and enact upon community consensus.
+The organization team exists in a minimal capacity to represent the community _when needed_, and is volunteer-led.
+Minimum "duties" include occasional PR and issue reviews as well as occasional involvement in team messaging platforms (e.g. our Discord sever).
+
+Taking on more "duties" is optional, but encouraged and may include activities such as:
+- organizing online (video and voice) meetups
+- creating written content (e.g articles and blog posts about Rust Cloud Native
+- maintaining a project which is officially affiliated with Rust Cloud Native (it is highly encouraged for new members to consider affiliating their maintained projects that fit the "cloud native Rust" criteria)
+- administration of GitHub organization and repository (TBD by [#64](https://github.com/rust-cloud-native/rust-cloud-native.github.io/issues/64))
+- administration or moderation of Discord server (TBD by [#64](https://github.com/rust-cloud-native/rust-cloud-native.github.io/issues/64))
+
+To apply to become a member of the team, please fill out the application via the [GitHub issue template](https://github.com/rust-cloud-native/rust-cloud-native.github.io/issues/new).
+You can nominate or self-request membership, and the only requirement is that you do not have a track record of consistent violations to the [Code of Conduct](./CODE_OF_CONDUCT.md).
+
+Decisions are made on the same public GitHub issues and not in private chats, meetings or forums.
+Please feel free to open a [discussion](https://github.com/rust-cloud-native/rust-cloud-native.github.io/discussions) if you have any questions about the process.
+
 ## Code of Conduct
 
 Unless otherwise specified, all repositories under the GitHub organization (including this one) follow and enforce this repository's [Code of Conduct](./CODE_OF_CONDUCT.md), which follows the Rust programming language's [Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct).

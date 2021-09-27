@@ -1,6 +1,6 @@
 ---
-name: Project
-about: Add a new project
+name: Add Project
+about: Add a new project to the website
 title: ''
 labels: ''
 ---

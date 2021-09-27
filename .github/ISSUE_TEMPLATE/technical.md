@@ -1,5 +1,5 @@
 ---
-name: Technical
+name: Technical Issue
 about: Describe the bug report, feature request, enhancement, etc.
 title: ''
 labels: ''
