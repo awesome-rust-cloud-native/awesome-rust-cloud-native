@@ -8,6 +8,11 @@ Rust Cloud Native
 A collection of resources about cloud native <a href="https://rust-lang.org">Rust</a>.
 </p>
 
+## Meetup
+
+We have a monthly online meetup. The next one will be on [20 December 2021](meetup/20-12-2021.md).
+Feel free to join and propose agenda items!
+
 ## Discussion and Collaboration
 
 We are currently using GitHub Issues and GitHub Discussions to track new ideas, feedback, collaboration, and community building.
@@ -63,9 +68,18 @@ Explicit consent from maintainers and owners must be given for affiliation.
 
 ### Events
 
-<!-- start events -->
+#### Upcoming
+
+<!-- start upcoming events -->
+- **[Cross-Team Collaboration Fun Times (22 Nov 2021)](https://rust-ctcft.github.io/ctcft/meetings/2021-11-22.html)**: cross-team collaboration in the Rust project
+- **[Rust Cloud Native online meetup (20 Dec 2021)](meetup/20-12-2021.md)**: the first meetup of our initiative!
+<!-- end upcoming events -->
+
+#### Past
+
+<!-- start past events -->
 - **[Cloud Native Rust Day EU 2021](https://www.youtube.com/playlist?list=PLj6h78yzYM2MKPAas7pxIvueTbwFqVRCX)**: the first-ever Cloud Native Rust Day (at KubeCon + CloudNativeCon EU 2021)
-<!-- end events -->
+<!-- end past events -->
 
 ## Want to add something? Let's do it!
 
