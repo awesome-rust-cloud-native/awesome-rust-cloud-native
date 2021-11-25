@@ -8,15 +8,12 @@ const APP_START: &str = "<!-- start applications -->";
 const APP_END: &str = "<!-- end applications -->";
 const LIB_START: &str = "<!-- start libraries -->";
 const LIB_END: &str = "<!-- end libraries -->";
-const EVE_START: &str = "<!-- start events -->";
-const EVE_END: &str = "<!-- end events -->";
 
 #[derive(Deserialize, Serialize, PartialEq, Eq, PartialOrd, Ord, Clone)]
 struct Data {
     // These fields are purposefully ordered for `data.json`.
     pub applications: Option<Vec<Project>>,
     pub libraries: Option<Vec<Project>>,
-    pub events: Option<Vec<Project>>,
 }
 
 #[derive(Deserialize, Serialize, PartialEq, Eq, PartialOrd, Ord, Clone)]
@@ -54,13 +51,6 @@ fn format_data_json(data: &Data) -> Data {
             }
             None => None,
         },
-        events: match data.events.clone() {
-            Some(mut s) => {
-                s.sort_by(|a, b| a.title.to_lowercase().cmp(&b.title.to_lowercase()));
-                Some(s)
-            }
-            None => None,
-        },
     }
 }
 
@@ -84,7 +74,7 @@ fn main() -> Result<()> {
     for line in index_contents.lines() {
         match locked {
             true => {
-                if line == APP_END || line == LIB_END || line == EVE_END {
+                if line == APP_END || line == LIB_END {
                     writeln!(&index_writer, "{}", line)?;
                     locked = false;
                 }
@@ -99,11 +89,6 @@ fn main() -> Result<()> {
                 } else if line == LIB_START {
                     if let Some(libraries) = &formatted_data.libraries {
                         process_projects(&mut index_writer, libraries)?;
-                    }
-                    locked = true;
-                } else if line == EVE_START {
-                    if let Some(events) = &formatted_data.events {
-                        process_projects(&mut index_writer, events)?;
                     }
                     locked = true;
                 }

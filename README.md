@@ -26,7 +26,7 @@ For now, we are focused on our aforementioned goals with the intent to provide a
 ## What can I do to help?
 
 In the short term, all we ask is your ideas, project additions, and feedback.
-You can provide these by finding, filing and starting [issues](https://github.com/rust-cloud-native/rust-cloud-native.github.io/issues), [pull requests](https://github.com/rust-cloud-native/rust-cloud-native.github.io/pulls), and [discussions](https://github.com/rust-cloud-native/rust-cloud-native.github.io/discussions)!
+You can provide these by finding, filing and starting [issues](https://github.com/rust-cloud-native/rust-cloud-native.github.io/issues), [pull requests](https://github.com/rust-cloud-native/rust-cloud-native.github.io/pulls), and [Discord discussions](https://discord.gg/799cmsYB4q)!
 
 This organization is our community's canvas.
 Let's paint it.
@@ -58,7 +58,7 @@ To apply to become a member of the team, please fill out the application via the
 You can nominate or self-request membership, and the only requirement is that you do not have a track record of consistent violations to the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 Decisions are made on the same public GitHub issues and not in private chats, meetings or forums.
-Please feel free to open a [discussion](https://github.com/rust-cloud-native/rust-cloud-native.github.io/discussions) if you have any questions about the process.
+Please feel free to open a [discussion](https://discord.gg/799cmsYB4q) if you have any questions about the process.
 
 ## Code of Conduct
 

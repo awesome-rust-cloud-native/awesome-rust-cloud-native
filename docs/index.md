@@ -6,6 +6,7 @@ Rust Cloud Native
 </h3>
 <p align="center">
 A collection of resources about cloud native <a href="https://rust-lang.org">Rust</a>.
+<br>This site's source code and the organization's goals, charters, etc. are located in the <a href="https://github.com/rust-cloud-native/rust-cloud-native.github.io">core repository</a>.</br>
 </p>
 
 ## Meetup
@@ -15,17 +16,18 @@ Feel free to join and propose agenda items!
 
 ## Discussion and Collaboration
 
-We are currently using GitHub Issues and GitHub Discussions to track new ideas, feedback, collaboration, and community building.
-In addition, we now have a [Discord server](https://discord.gg/799cmsYB4q) for a real-time chat platform.
+[![Discord](https://img.shields.io/discord/874314181191565453?label=discord&style=flat-square&logo=discord)](https://discord.gg/799cmsYB4q)
+
+We are currently using GitHub Issues and our [Discord server](https://discord.gg/799cmsYB4q) to track new ideas, feedback, collaboration, and community building.
 Please do not hesitate to post, talk, and share your ideas.
 Let your voice be heard!
 
-Topic | Description | [Find or file an issue?](https://github.com/rust-cloud-native/rust-cloud-native.github.io/issues) | [Find or start a discussion?](https://github.com/rust-cloud-native/rust-cloud-native.github.io/discussions)
+Topic | Description | [Find or file an issue?](https://github.com/rust-cloud-native/rust-cloud-native.github.io/issues) | [Find or start a discussion in Discord?](https://discord.gg/799cmsYB4q)
 --- | --- | --- | ---
-Community | sharing, promoting, job posting, finding people to work on projects with, etc. | no | yes
-Projects | additions or changes to projects on the website | yes | no
-Technical | bugs, enhancements, features, etc. | yes | no (unless high-level, design-related)
-Organizational | "meta", goals, structure, etc. | no | yes
+Community | sharing, promoting, job posting, finding people to work on projects with, etc. | 🚫 | ✅
+Projects | additions or changes to projects on the website | ✅ | 🚫
+Technical | bugs, enhancements, features, etc. | ✅ | ⚠️
+Organizational | "meta", goals, structure, etc. | 🚫 | ✅
 
 ## Featured Projects
 
@@ -42,7 +44,7 @@ Explicit consent from maintainers and owners must be given for affiliation.
 - **[containers/youki](https://github.com/containers/youki)**: a container runtime written in Rust
 - **[datafuselabs/datafuse](https://github.com/datafuselabs/datafuse)**: A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy
 - **[firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)**: secure and fast microVMs for serverless computing
-- **[infinyon/fluvio](https://github.com/infinyon/fluvio)**: Cloud-native real-time data streaming platform with in-line computation capabilities
+- **[infinyon/fluvio](https://github.com/infinyon/fluvio)**: A cloud-native real-time data streaming platform with in-line computation capabilities
 - **[krustlet/krustlet](https://github.com/krustlet/krustlet)**: Kubernetes Rust Kubelet
 - **[kube-rs/controller-rs](https://github.com/kube-rs/controller-rs)**: a Kubernetes example controller
 - **[kube-rs/version-rs](https://github.com/kube-rs/version-rs)**: example Kubernetes reflector and web server
@@ -62,24 +64,23 @@ Explicit consent from maintainers and owners must be given for affiliation.
 - **[CNI Plugins](https://github.com/passcod/cni-plugins)**: crate/framework to write CNI (container networking) plugins in Rust (includes a few custom plugins as well)
 - **[containers/libkrun](https://github.com/containers/libkrun)**: a dynamic library providing Virtualization-based process isolation capabilities
 - **[kube-rs/kube-rs](https://github.com/kube-rs/kube-rs)**: Kubernetes Rust client and async controller runtime
-- **[qovery/engine](https://github.com/Qovery/engine)**: Qovery Engine is an open-source abstraction layer library that turns easy apps deployment on AWS, GCP, Azure, and other Cloud providers in just a few minutes
 - **[open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust)**: OpenTelemetry is a set of APIs, SDKs, tooling and integrations that are designed for the creation and management of telemetry data such as traces, metrics, and logs.
+- **[qovery/engine](https://github.com/Qovery/engine)**: An open-source abstraction layer library that turns easy apps deployment on AWS, GCP, Azure, and other Cloud providers
 <!-- end libraries -->
 
 ### Events
 
 #### Upcoming
 
-<!-- start upcoming events -->
-- **[Cross-Team Collaboration Fun Times (22 Nov 2021)](https://rust-ctcft.github.io/ctcft/meetings/2021-11-22.html)**: cross-team collaboration in the Rust project
 - **[Rust Cloud Native online meetup (20 Dec 2021)](meetup/20-12-2021.md)**: the first meetup of our initiative!
-<!-- end upcoming events -->
+
+#### Ongoing
+
+- **[Cross-Team Collaboration Fun Times](https://rust-ctcft.github.io/ctcft)**: cross-team collaboration in the Rust project, where "Rust Cloud Native" participates as an interest group on a monthly-basis (or more!)
 
 #### Past
 
-<!-- start past events -->
 - **[Cloud Native Rust Day EU 2021](https://www.youtube.com/playlist?list=PLj6h78yzYM2MKPAas7pxIvueTbwFqVRCX)**: the first-ever Cloud Native Rust Day (at KubeCon + CloudNativeCon EU 2021)
-<!-- end past events -->
 
 ## Want to add something? Let's do it!
 
