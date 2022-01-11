@@ -6,7 +6,7 @@ Rust Cloud Native
 </h3>
 <p align="center">
 A collection of resources about cloud native <a href="https://rust-lang.org">Rust</a>.
-<br>This site's source code and the organization's goals, charters, etc. are located in the <a href="https://github.com/rust-cloud-native/rust-cloud-native.github.io">core repository</a>.</br>
+<br>This site's source code and the organization's goals, charters, etc. are located in the <a href="https://github.com/rust-cloud-native/rust-cloud-native.github.io">core repository</a>.
 </p>
 
 ## Meetup
