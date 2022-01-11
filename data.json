@@ -26,6 +26,11 @@
       "description": "A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy"
     },
     {
+      "title": "dragonflyoss/image-service",
+      "url": "https://github.com/dragonflyoss/image-service",
+      "description": "container image service focused on speed, space, network efficiency and data integrity, replacement of OCI"
+    },
+    {
       "title": "firecracker-microvm/firecracker",
       "url": "https://github.com/firecracker-microvm/firecracker",
       "description": "secure and fast microVMs for serverless computing"
@@ -34,6 +39,11 @@
       "title": "infinyon/fluvio",
       "url": "https://github.com/infinyon/fluvio",
       "description": "A cloud-native real-time data streaming platform with in-line computation capabilities"
+    },
+    {
+      "title": "kata-containers/kata-containers",
+      "url": "https://github.com/kata-containers/kata-containers",
+      "description": "VM-based container runtime with the security of virtual machine and speed of container"
     },
     {
       "title": "krustlet/krustlet",
