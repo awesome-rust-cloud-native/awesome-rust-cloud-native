@@ -68,6 +68,16 @@ Explicit consent from maintainers and owners must be given for affiliation.
 - **[qovery/engine](https://github.com/Qovery/engine)**: An open-source abstraction layer library that turns easy apps deployment on AWS, GCP, Azure, and other Cloud providers
 <!-- end libraries -->
 
+### Meetups
+
+<!-- start meetups -->
+- **[Rust Cloud Native online meetup #2](meetup/2022-01-24.md)** (2022-01-24)
+
+#### Past
+
+- **[Rust Cloud Native online meetup #1](meetup/2021-12-20.md)** (2021-12-20)
+<!-- end meetups -->
+
 ### Events
 
 #### Upcoming

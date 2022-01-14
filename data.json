@@ -117,5 +117,53 @@
       "url": "https://github.com/Qovery/engine",
       "description": "An open-source abstraction layer library that turns easy apps deployment on AWS, GCP, Azure, and other Cloud providers"
     }
+  ],
+  "meetups": [
+    {
+      "id": 2,
+      "date": "2022-01-24",
+      "region": "EMEA",
+      "cet_time": "19:00",
+      "pdt_time": "10:00",
+      "agenda": [
+        {
+          "title": "Goverance",
+          "url": null,
+          "description": "We would like to discuss the goverance rules in the RCN initiative.",
+          "speaker_name": null,
+          "speaker_url": null
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "date": "2021-12-20",
+      "region": "AMER",
+      "cet_time": "00:00",
+      "pdt_time": "15:00",
+      "agenda": [
+        {
+          "title": "Intro",
+          "url": null,
+          "description": "introduction of the Rust Cloud Native initiative - why it exists, what are our goals, how we work, what projects we are interested in.",
+          "speaker_name": null,
+          "speaker_url": null
+        },
+        {
+          "title": "lockc",
+          "url": "https://rancher-sandbox.github.io/lockc/",
+          "description": "will talk about a project, written mostly in Rust, which aims to improve security of containers by providing more isolation between them and the host operating system. The main technology used is eBPF, so the talk is going to explain what it is and how it can be used with Rust. Future plans of rewriting the entire project in Rust are going to be mentioned as well.",
+          "speaker_name": "vadorovsky",
+          "speaker_url": "https://twitter.com/vadorovsky"
+        },
+        {
+          "title": "Education/Training",
+          "url": null,
+          "description": "there is an idea to add a section about Education/Training to the RCN website in a form of [GitHub issue](https://github.com/rust-cloud-native/rust-cloud-native.github.io/issues/53). We are going to talk about how we want to do that.",
+          "speaker_name": null,
+          "speaker_url": null
+        }
+      ]
+    }
   ]
 }
