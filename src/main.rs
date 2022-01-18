@@ -6,8 +6,6 @@ use std::io::Write;
 use std::path::Path;
 use tera::{Context, Tera};
 
-mod rcn_date;
-
 const APP_START: &str = "<!-- start applications -->";
 const APP_END: &str = "<!-- end applications -->";
 const LIB_START: &str = "<!-- start libraries -->";
@@ -34,7 +32,6 @@ struct Project {
 #[derive(Deserialize, Serialize, PartialEq, Eq, PartialOrd, Ord, Clone)]
 struct Meetup {
     pub id: u32,
-    #[serde(with = "rcn_date")]
     pub date: NaiveDate,
     pub region: String,
     pub cet_time: String,
@@ -67,7 +64,7 @@ fn process_meetup(meetup: &Meetup) -> Result<()> {
     let meetup_path = root
         .join("docs")
         .join("meetup")
-        .join(format!("{}.md", meetup.date.to_string()));
+        .join(format!("{}.md", meetup.date));
     let meetup_writer = fs::File::create(meetup_path)?;
 
     let tera = Tera::new("templates/**/*.md")?;
