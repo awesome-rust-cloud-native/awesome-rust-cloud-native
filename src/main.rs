@@ -64,7 +64,7 @@ fn process_meetup(meetup: &Meetup) -> Result<()> {
     let meetup_path = root
         .join("docs")
         .join("meetup")
-        .join(format!("{}.md", meetup.date.to_string()));
+        .join(format!("{}.md", meetup.date));
     let meetup_writer = fs::File::create(meetup_path)?;
 
     let tera = Tera::new("templates/**/*.md")?;
