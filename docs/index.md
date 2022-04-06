@@ -9,11 +9,6 @@ A collection of resources about cloud native <a href="https://rust-lang.org">Rus
 <br>This site's source code and the organization's goals, charters, etc. are located in the <a href="https://github.com/rust-cloud-native/rust-cloud-native.github.io">core repository</a>.
 </p>
 
-## Meetup
-
-We have a monthly online meetup. The next one will be on [20 December 2021](meetup/20-12-2021.md).
-Feel free to join and propose agenda items!
-
 ## Discussion and Collaboration
 
 [![Discord](https://img.shields.io/discord/874314181191565453?label=discord&style=flat-square&logo=discord)](https://discord.gg/799cmsYB4q)
@@ -72,19 +67,18 @@ Explicit consent from maintainers and owners must be given for affiliation.
 
 ### Meetups
 
+We have a monthly online meetup. Feel free to join and propose agenda items!
+
 <!-- start meetups -->
-- **[Rust Cloud Native online meetup #2](meetup/2022-01-24.md)** (2022-01-24)
+- **[Rust Cloud Native online meetup #3](meetup/2022-04-21.md)** (2022-04-21)
 
 #### Past
 
+- **[Rust Cloud Native online meetup #2](meetup/2022-01-24.md)** (2022-01-24)
 - **[Rust Cloud Native online meetup #1](meetup/2021-12-20.md)** (2021-12-20)
 <!-- end meetups -->
 
 ### Events
-
-#### Upcoming
-
-- **[Rust Cloud Native online meetup (20 Dec 2021)](meetup/20-12-2021.md)**: the first meetup of our initiative!
 
 #### Ongoing
 
