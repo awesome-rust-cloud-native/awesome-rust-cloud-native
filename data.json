@@ -130,6 +130,36 @@
   ],
   "meetups": [
     {
+      "id": 3,
+      "date": "2022-04-21",
+      "region": "EMEA",
+      "cet_time": "20:00",
+      "pdt_time": "11:00",
+      "agenda": [
+        {
+          "title": "Welcome",
+          "url": null,
+          "description": "We will be having a welcome reception and a short introduction to the meetup.",
+          "speaker_name": null,
+          "speaker_url": null
+        },
+        {
+          "title": "lockc",
+          "url": "https://lockc-project.github.io/book/",
+          "description": "Project aiming to improve container security with eBPF LSM. I will focus on what's new since the last talk about lockc.",
+          "speaker_name": "vadorovsky",
+          "speaker_url": "https://twitter.com/vadorovsky"
+        },
+        {
+          "title": "Future plans",
+          "url": null,
+          "description": "What we want to do and how we want to work - brainstorming and discussing ideas.",
+          "speaker_name": null,
+          "speaker_url": null
+        }
+      ]
+    },
+    {
       "id": 2,
       "date": "2022-01-24",
       "region": "EMEA",
