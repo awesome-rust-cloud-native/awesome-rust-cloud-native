@@ -144,9 +144,9 @@
           "speaker_url": null
         },
         {
-          "title": "lockc",
-          "url": "https://lockc-project.github.io/book/",
-          "description": "Project aiming to improve container security with eBPF LSM. I will focus on what's new since the last talk about lockc.",
+          "title": "Aya",
+          "url": "https://aya-rs.github.io/book/",
+          "description": "Library which allows to write eBPF programs in Rust without using libbpf, bcc or external LLVM - Rust is everything you need.",
           "speaker_name": "vadorovsky",
           "speaker_url": "https://twitter.com/vadorovsky"
         },
