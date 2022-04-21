@@ -62,6 +62,7 @@ Explicit consent from maintainers and owners must be given for affiliation.
 <!-- start libraries -->
 - **[containers/libkrun](https://github.com/containers/libkrun)**: a dynamic library providing Virtualization-based process isolation capabilities
 - **[kube-rs/kube-rs](https://github.com/kube-rs/kube-rs)**: Kubernetes Rust client and async controller runtime
+- **[olix0r/kubert](https://github.com/olix0r/kubert)**: Kubernetes runtime helpers based on kube-rs
 - **[open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust)**: OpenTelemetry is a set of APIs, SDKs, tooling and integrations that are designed for the creation and management of telemetry data such as traces, metrics, and logs.
 - **[passcod/cni-plugins](https://github.com/passcod/cni-plugins)**: crate/framework to write CNI (container networking) plugins in Rust (includes a few custom plugins as well)
 - **[qovery/engine](https://github.com/Qovery/engine)**: An open-source abstraction layer library that turns easy apps deployment on AWS, GCP, Azure, and other Cloud providers
