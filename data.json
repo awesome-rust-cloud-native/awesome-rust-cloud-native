@@ -113,6 +113,11 @@
       "description": "Kubernetes Rust client and async controller runtime"
     },
     {
+      "title": "olix0r/kubert",
+      "url": "https://github.com/olix0r/kubert",
+      "description": "Kubernetes runtime helpers based on kube-rs"
+    },
+    {
       "title": "open-telemetry/opentelemetry-rust",
       "url": "https://github.com/open-telemetry/opentelemetry-rust",
       "description": "OpenTelemetry is a set of APIs, SDKs, tooling and integrations that are designed for the creation and management of telemetry data such as traces, metrics, and logs."
