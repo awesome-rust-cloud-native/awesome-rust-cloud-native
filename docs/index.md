@@ -13,16 +13,18 @@ A collection of resources about cloud native <a href="https://rust-lang.org">Rus
 
 [![Discord](https://img.shields.io/discord/874314181191565453?label=discord&style=flat-square&logo=discord)](https://discord.gg/799cmsYB4q)
 
-We are currently using GitHub Issues and our [Discord server](https://discord.gg/799cmsYB4q) to track new ideas, feedback, collaboration, and community building.
+We are currently using [GitHub issues](https://github.com/rust-cloud-native/rust-cloud-native.github.io/issues) and our [Discord server](https://discord.gg/799cmsYB4q) to track new ideas, feedback, collaboration, and community building.
 Please do not hesitate to post, talk, and share your ideas.
 Let your voice be heard!
 
-Topic | Description | [Find or file an issue?](https://github.com/rust-cloud-native/rust-cloud-native.github.io/issues) | [Find or start a discussion in Discord?](https://discord.gg/799cmsYB4q)
+Topic | Description | [Find or file a GitHub issue?](https://github.com/rust-cloud-native/rust-cloud-native.github.io/issues) | [Find or start a discussion in Discord?](https://discord.gg/799cmsYB4q)
 --- | --- | --- | ---
 Community | sharing, promoting, job posting, finding people to work on projects with, etc. | 🚫 | ✅
-Projects | additions or changes to projects on the website | ✅ | 🚫
-Technical | bugs, enhancements, features, etc. | ✅ | ⚠️
+Projects | additions or changes to projects on the website | ✅ | ✅
+Technical | bugs, enhancements, features, etc. for the website | ✅ | ✅
 Organizational | "meta", goals, structure, etc. | 🚫 | ✅
+
+When in doubt, discuss in our [Discord](https://discord.gg/799cmsYB4q) server!
 
 ## Featured Projects
 
@@ -58,10 +60,10 @@ Explicit consent from maintainers and owners must be given for affiliation.
 ### Libraries
 
 <!-- start libraries -->
-- **[CNI Plugins](https://github.com/passcod/cni-plugins)**: crate/framework to write CNI (container networking) plugins in Rust (includes a few custom plugins as well)
 - **[containers/libkrun](https://github.com/containers/libkrun)**: a dynamic library providing Virtualization-based process isolation capabilities
 - **[kube-rs/kube-rs](https://github.com/kube-rs/kube-rs)**: Kubernetes Rust client and async controller runtime
 - **[open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust)**: OpenTelemetry is a set of APIs, SDKs, tooling and integrations that are designed for the creation and management of telemetry data such as traces, metrics, and logs.
+- **[passcod/cni-plugins](https://github.com/passcod/cni-plugins)**: crate/framework to write CNI (container networking) plugins in Rust (includes a few custom plugins as well)
 - **[qovery/engine](https://github.com/Qovery/engine)**: An open-source abstraction layer library that turns easy apps deployment on AWS, GCP, Azure, and other Cloud providers
 <!-- end libraries -->
 
@@ -90,12 +92,12 @@ We have a monthly online meetup. Feel free to join and propose agenda items!
 
 ## Want to add something? Let's do it!
 
-We are looking for contributiors, and would love [new PRs, issues, and discussion posts](https://github.com/rust-cloud-native/rust-cloud-native.github.io)!
+We are looking for contributions, and would love to talk in our [Discord](https://discord.gg/799cmsYB4q) server and would love [PRs and issues in our core repository](https://github.com/rust-cloud-native/rust-cloud-native.github.io)!
 
 ## Additional Information
 
-**Logo**: More information about the logo can be found in our [main repository](https://github.com/rust-cloud-native/rust-cloud-native.github.io/tree/main/logo).
-
-**Ownership**: This site belongs to the [Rust Cloud Native](https://github.com/rust-cloud-native) GitHub organization.
-
-**Code of Conduct**: Each repository has the same Code of Conduct. You can find more information on the Code in the [main repository](https://github.com/rust-cloud-native/rust-cloud-native.github.io/blob/main/CODE_OF_CONDUCT.md).
+Item | Note
+--- | ---
+Logo | More information about the logo can be found in our [main repository](https://github.com/rust-cloud-native/rust-cloud-native.github.io/tree/main/logo).
+Ownership | This site belongs to the [Rust Cloud Native](https://github.com/rust-cloud-native) GitHub organization.
+Code of Conduct | Every repository under our GitHub organization has the same Code of Conduct. You can find more information on the Code of Conduct in the [main repository](https://github.com/rust-cloud-native/rust-cloud-native.github.io/blob/main/CODE_OF_CONDUCT.md).

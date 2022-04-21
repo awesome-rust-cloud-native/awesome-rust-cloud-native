@@ -1,6 +1,6 @@
 ---
-name: Technical Issue
-about: Describe the bug report, feature request, enhancement, etc.
+name: Technical Issue for the Website
+about: Describe the bug report, feature request, enhancement, etc. for the website
 title: ''
 labels: ''
 ---
