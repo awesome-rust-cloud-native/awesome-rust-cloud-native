@@ -1,5 +1,5 @@
 ---
-name: Add Project
+name: Add Project to the Website
 about: Add a new project to the website
 title: ''
 labels: ''
