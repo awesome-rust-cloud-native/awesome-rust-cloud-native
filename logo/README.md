@@ -1,8 +1,8 @@
-# Rust Cloud Native Logo
+# Awesome Rust Cloud Native Logo
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 
-This directory contains the logo, and related file(s), for the [Rust Cloud Native](https://github.com/rust-cloud-native) GitHub organization.
+This directory contains the logo, and related file(s), for the [Awesome Rust Cloud Native](https://github.com/awesome-rust-cloud-native) GitHub organization.
 
 ## Sources and Attribution
 

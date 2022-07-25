@@ -1,89 +1,63 @@
-# [Rust Cloud Native](https://github.com/rust-cloud-native)
+# Awesome Rust Cloud Native
 
-![License](https://img.shields.io/github/license/rust-cloud-native/rust-cloud-native.github.io?style=flat-square)
-[![Discord](https://img.shields.io/discord/874314181191565453?label=discord&style=flat-square&logo=discord)](https://discord.gg/799cmsYB4q)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![License](https://img.shields.io/github/license/awesome-rust-cloud-native/awesome-rust-cloud-native)
 
-This is the main repository for the Rust Cloud Native organization on GitHub.
-It contains the [website](https://rust-cloud-native.github.io), the [logo](./logo), goals, definitions, structures, processes, etc. for the organization.
+<img src="./logo/img/awesome-rust-cloud-native-logo.png" alt="Awesome Rust Cloud Native logo, which features the Ferris crab mascot on a white cloud with a light blue background." width="200">
 
-<img src="./logo/img/rust-cloud-native-logo.png" alt="Rust Cloud Native logo, which features the Ferris crab mascot on a white cloud with a light blue background." width="200">
+## Announcement
 
-## What is the mission of this organization?
+"Rust Cloud Native" has been converted to "Awesome Rust Cloud Native".
+For more details, please read the [announcement](./ANNOUNCEMENT.md).
 
-Rust Cloud Native is focused on strictly one mission: **enabling the usage of Rust in the "Cloud", which refers to software related to infrastructure, containers, and Kubernetes.**
+## Contributing
 
-## What are the goals of this organization?
+Please refer to [CONTRIBUTING.md](./CONTRIBUTING.md) for more details!
 
-Adhering to the aforementioned mission includes the following:
+This project exists to showcase cloud native Rust projects and provide a collection of cloud native Rust resources.
+We feature projects that exist in our space for the purpose of connecting our greater community, but _we are not affiliated with these projects unless specified_.
+Explicit consent from maintainers and owners must be given for affiliation.
+Thus, you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file.
+Thank you!
 
-1. Maintaining all active repositories
-2. Promoting and improving the [website](https://rust-cloud-native.github.io) and its contents
-3. Gathering community ideas and feedback via discussions and issues in order to determine the direction of the organization in a safe, public, and transparent manner
+## Contents
 
-In the future, our organization may formalize on another goal: create an official [Rust working group](https://www.rust-lang.org/governance).
-For now, we are focused on our aforementioned goals with the intent to provide a home for folks interested in cloud native Rust.
+- [Applications and Services](#applications-and-services)
+- [Libraries](#libraries)
 
-## What can I do to help?
+### Applications and Services
 
-In the short term, all we ask is your ideas, project additions, and feedback.
-You can provide these by finding, filing and starting [issues](https://github.com/rust-cloud-native/rust-cloud-native.github.io/issues), [pull requests](https://github.com/rust-cloud-native/rust-cloud-native.github.io/pulls), and [Discord discussions](https://discord.gg/799cmsYB4q)!
+- **[apache/incubator-teaclave](https://github.com/apache/incubator-teaclave)**: open source universal secure computing platform, making computation on privacy-sensitive data safe and simple
+- **[bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket)**: an operating system designed for hosting containers
+- **[containers/krunvm](https://github.com/containers/krunvm)**: manage lightweight VMs created from OCI images
+- **[containers/youki](https://github.com/containers/youki)**: a container runtime written in Rust
+- **[datafuselabs/datafuse](https://github.com/datafuselabs/datafuse)**: A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy
+- **[dragonflyoss/image-service](https://github.com/dragonflyoss/image-service)**: container image service focused on speed, space, network efficiency and data integrity, replacement of OCI
+- **[firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)**: secure and fast microVMs for serverless computing
+- **[infinyon/fluvio](https://github.com/infinyon/fluvio)**: A cloud-native real-time data streaming platform with in-line computation capabilities
+- **[kata-containers/kata-containers](https://github.com/kata-containers/kata-containers)**: VM-based container runtime with the security of virtual machine and speed of container
+- **[krustlet/krustlet](https://github.com/krustlet/krustlet)**: Kubernetes Rust Kubelet
+- **[kube-rs/controller-rs](https://github.com/kube-rs/controller-rs)**: a Kubernetes example controller
+- **[kube-rs/version-rs](https://github.com/kube-rs/version-rs)**: example Kubernetes reflector and web server
+- **[kubewarden/policy-server](https://github.com/kubewarden/policy-server)**: webhook server that evaluates WebAssembly policies to validate Kubernetes requests
+- **[linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy)**: a purpose-built proxy for the Linkerd service mesh
+- **[openebs/mayastor](https://github.com/openebs/mayastor)**: A cloud native declarative data plane in containers for containers
+- **[rancher-sandbox/lockc](https://github.com/rancher-sandbox/lockc)**: eBPF-based MAC security audit for container workloads
+- **[tikv/tikv](https://github.com/tikv/tikv)**: distributed transactional key-value database
+- **[tremor-rs/tremor-runtime](https://github.com/tremor-rs/tremor-runtime)**: an event processing system that supporting complex workflows such as aggregation, rollups, an ETL language, and a query language
+- **[valeriansaliou/sonic](https://github.com/valeriansaliou/sonic)**: fast, lightweight & schema-less search backend
+- **[WasmEdge/WasmEdge](https://wasmedge.org)**: WasmEdge is a high-performance WebAssembly (Wasm) Virtual Machine (VM) runtime, which enables serverless functions to be embedded into any software platform; from cloud's edge to SaaS to automobiles
 
-This organization is our community's canvas.
-Let's paint it.
+### Libraries
 
-## How do I add a project or resource?
-
-Filing or boosting an issue will more than suffice.
-However, you can refer to the [DEVELOPING](./DEVELOPING.md) file for help on submitting a pull request as well as more information on adding, editing and removing projects.
-
-## How do I stay tuned for updates?
-
-You can customize the "watch" settings for this repository to keep up with issues and discussions.
-We will be exploring other avenues for providing updates in the future.
-
-## Governance
-
-The Rust Cloud Native GitHub organization's team members may help guide the course of the organization, but exist only to enable community voices and enact upon community consensus.
-The organization team exists in a minimal capacity to represent the community _when needed_, and is volunteer-led.
-Minimum "duties" include occasional PR and issue reviews as well as occasional involvement in team messaging platforms (e.g. our Discord sever).
-
-Taking on more "duties" is optional, but encouraged and may include activities such as:
-- organizing online (video and voice) meetups
-- creating written content (e.g articles and blog posts about Rust Cloud Native
-- maintaining a project which is officially affiliated with Rust Cloud Native (it is highly encouraged for new members to consider affiliating their maintained projects that fit the "cloud native Rust" criteria)
-- administration of GitHub organization and repository (TBD by [#64](https://github.com/rust-cloud-native/rust-cloud-native.github.io/issues/64))
-- administration or moderation of Discord server (TBD by [#64](https://github.com/rust-cloud-native/rust-cloud-native.github.io/issues/64))
-
-To apply to become a member of the team, please fill out the application via the [GitHub issue template](https://github.com/rust-cloud-native/rust-cloud-native.github.io/issues/new).
-You can nominate or self-request membership, and the only requirement is that you do not have a track record of consistent violations to the [Code of Conduct](./CODE_OF_CONDUCT.md).
-
-Decisions are made on the same public GitHub issues and not in private chats, meetings or forums.
-Please feel free to open a [discussion](https://discord.gg/799cmsYB4q) if you have any questions about the process.
-
-## Code of Conduct
-
-Unless otherwise specified, all repositories under the GitHub organization (including this one) follow and enforce this repository's [Code of Conduct](./CODE_OF_CONDUCT.md), which follows the Rust programming language's [Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct).
+- **[containers/libkrun](https://github.com/containers/libkrun)**: a dynamic library providing Virtualization-based process isolation capabilities
+- **[kube-rs/kube-rs](https://github.com/kube-rs/kube-rs)**: Kubernetes Rust client and async controller runtime
+- **[olix0r/kubert](https://github.com/olix0r/kubert)**: Kubernetes runtime helpers based on kube-rs
+- **[open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust)**: OpenTelemetry is a set of APIs, SDKs, tooling and integrations that are designed for the creation and management of telemetry data such as traces, metrics, and logs.
+- **[passcod/cni-plugins](https://github.com/passcod/cni-plugins)**: crate/framework to write CNI (container networking) plugins in Rust (includes a few custom plugins as well)
+- **[qovery/engine](https://github.com/Qovery/engine)**: An open-source abstraction layer library that turns easy apps deployment on AWS, GCP, Azure, and other Cloud providers
 
 ## Licenses
 
-All contents of this repository are licensed under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) license _except_ for the [logo](./logo) directory.
+All contents of this repository are licensed under the [MIT](https://opensource.org/licenses/MIT) license _except_ for the [logo](./logo) directory.
 The logo directory and its contents (including the logo itself) are licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
-
-## Logo Usage
-
-The [logo](./logo) is encouraged to be used wherever and whenever desired!
-
-## Owners and Members
-
-One of our first organizational objectives is to create a formal owners and members group with full access to the organization and its contents.
-Humans do not scale, and Rust Cloud Native is for everyone.
-The process to welcoming more members is still to be determined.
-
-## Repository Style
-
-Nothing is "required", but these style guidelines should help when creating and maintaining repositories within this organization.
-
-- recommended documentation badge style (shields.io, etc.): `flat-square`
-- root `README.md` files should embed the [logo](./logo)
-- root `README.md` files should have a badge containing the repository's license(s)
-- recommended licenses: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) or [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
