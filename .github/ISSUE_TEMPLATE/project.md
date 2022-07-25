@@ -1,21 +1,21 @@
 ---
-name: Add Project to the Website
-about: Add a new project to the website
+name: Add Project to the List
+about: Add a new project to the list
 title: ''
 labels: ''
 ---
 
 ### What is the project title?
-<!-- answer here (e.g. `rust-cloud-native/rust-cloud-native.github.io` or `rust-cloud-native.github.io`) -->
-<!-- note: THIS WILL BE SHOWCASED ON THE SITE -->
+<!-- answer here (e.g. `awesome-rust-cloud-native/awesome-rust-cloud-native` or `awesome-rust-cloud-native`) -->
+<!-- note: THIS WILL BE SHOWCASED ON THE LIST -->
 
 ### What is the project URL?
-<!-- answer here (e.g. `https://github.com/rust-cloud-native/rust-cloud-native.github.io`) -->
-<!-- note: THIS WILL BE SHOWCASED ON THE SITE -->
+<!-- answer here (e.g. `https://github.com/awesome-rust-cloud-native/awesome-rust-cloud-native`) -->
+<!-- note: THIS WILL BE SHOWCASED ON THE LIST -->
 
 ### What is the project description?
 <!-- answer here (e.g. `lorem ipsum dolor sit amet, consectetur adipiscing elit`) -->
-<!-- note: THIS WILL BE SHOWCASED ON THE SITE -->
+<!-- note: THIS WILL BE SHOWCASED ON THE LIST -->
 <!-- guideline: Project descriptions must be one sentence or "phrase" in length, and not end with sentence-ending punctuation (e.g. `!`, `?`, or `.`) -->
 
 ### What kind of project is this?
