@@ -51,6 +51,8 @@ Thank you!
 ### Libraries
 
 - **[containers/libkrun](https://github.com/containers/libkrun)**: a dynamic library providing Virtualization-based process isolation capabilities
+- **[datafuselabs/opendal](https://github.com/datafuselabs/opendal)**: access different storage services painlessly and efficiently with no vendor lock-in
+- **[deislabs/runwasi](https://github.com/deislabs/runwasi)**: a project to facilitate running wasm workloads managed by containerd either directly (ie. through ctr) or as directed by Kubelet via the CRI plugin
 - **[kube-rs/kube-rs](https://github.com/kube-rs/kube-rs)**: Kubernetes Rust client and async controller runtime
 - **[olix0r/kubert](https://github.com/olix0r/kubert)**: Kubernetes runtime helpers based on kube-rs
 - **[open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust)**: OpenTelemetry is a set of APIs, SDKs, tooling and integrations that are designed for the creation and management of telemetry data such as traces, metrics, and logs.
