@@ -1,7 +1,7 @@
 # Awesome Rust Cloud Native
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![License](https://img.shields.io/github/license/awesome-rust-cloud-native/awesome-rust-cloud-native)
+[![License](https://img.shields.io/github/license/awesome-rust-cloud-native/awesome-rust-cloud-native)](https://github.com/awesome-rust-cloud-native/awesome-rust-cloud-native/blob/main/LICENSE)
 
 <img src="./logo/img/awesome-rust-cloud-native-logo.png" alt="Awesome Rust Cloud Native logo, which features the Ferris crab mascot on a white cloud with a light blue background." width="200">
 
