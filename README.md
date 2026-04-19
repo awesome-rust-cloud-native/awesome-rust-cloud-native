@@ -27,6 +27,7 @@ Thank you!
 
 ### Applications and Services
 
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - **[apache/incubator-teaclave](https://github.com/apache/incubator-teaclave)**: open source universal secure computing platform, making computation on privacy-sensitive data safe and simple
 - **[bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket)**: an operating system designed for hosting containers
 - **[containers/krunvm](https://github.com/containers/krunvm)**: manage lightweight VMs created from OCI images
@@ -41,6 +42,7 @@ Thank you!
 - **[kube-rs/version-rs](https://github.com/kube-rs/version-rs)**: example Kubernetes reflector and web server
 - **[kubewarden/policy-server](https://github.com/kubewarden/policy-server)**: webhook server that evaluates WebAssembly policies to validate Kubernetes requests
 - **[linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy)**: a purpose-built proxy for the Linkerd service mesh
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - **[openebs/mayastor](https://github.com/openebs/mayastor)**: A cloud native declarative data plane in containers for containers
 - **[rancher-sandbox/lockc](https://github.com/rancher-sandbox/lockc)**: eBPF-based MAC security audit for container workloads
 - **[tikv/tikv](https://github.com/tikv/tikv)**: distributed transactional key-value database
