@@ -47,6 +47,7 @@ Thank you!
 - **[tremor-rs/tremor-runtime](https://github.com/tremor-rs/tremor-runtime)**: an event processing system that supporting complex workflows such as aggregation, rollups, an ETL language, and a query language
 - **[valeriansaliou/sonic](https://github.com/valeriansaliou/sonic)**: fast, lightweight & schema-less search backend
 - **[WasmEdge/WasmEdge](https://wasmedge.org)**: WasmEdge is a high-performance WebAssembly (Wasm) Virtual Machine (VM) runtime, which enables serverless functions to be embedded into any software platform; from cloud's edge to SaaS to automobiles
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 ### Libraries
 
