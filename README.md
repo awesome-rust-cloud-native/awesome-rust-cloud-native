@@ -34,6 +34,7 @@ Thank you!
 - **[datafuselabs/datafuse](https://github.com/datafuselabs/datafuse)**: A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy
 - **[dragonflyoss/image-service](https://github.com/dragonflyoss/image-service)**: container image service focused on speed, space, network efficiency and data integrity, replacement of OCI
 - **[firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)**: secure and fast microVMs for serverless computing
+- **[hook0/hook0](https://github.com/hook0/hook0)**: open-source webhooks-as-a-service platform handling event delivery, retries, and HMAC signatures
 - **[infinyon/fluvio](https://github.com/infinyon/fluvio)**: A cloud-native real-time data streaming platform with in-line computation capabilities
 - **[kata-containers/kata-containers](https://github.com/kata-containers/kata-containers)**: VM-based container runtime with the security of virtual machine and speed of container
 - **[krustlet/krustlet](https://github.com/krustlet/krustlet)**: Kubernetes Rust Kubelet
