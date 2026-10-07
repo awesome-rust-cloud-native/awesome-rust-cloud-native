@@ -42,6 +42,7 @@ Thank you!
 - **[kube-rs/version-rs](https://github.com/kube-rs/version-rs)**: example Kubernetes reflector and web server
 - **[kubewarden/policy-server](https://github.com/kubewarden/policy-server)**: webhook server that evaluates WebAssembly policies to validate Kubernetes requests
 - **[linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy)**: a purpose-built proxy for the Linkerd service mesh
+- **[maxcomperatore/rubrol](https://github.com/maxcomperatore/rubrol)**: high-throughput Typst-native document compilation engine and HTTP sidecar for sub-10ms PDF generation and Factur-X / PDF/A-3b hybrid electronic invoicing
 - **[openebs/mayastor](https://github.com/openebs/mayastor)**: A cloud native declarative data plane in containers for containers
 - **[rancher-sandbox/lockc](https://github.com/rancher-sandbox/lockc)**: eBPF-based MAC security audit for container workloads
 - **[tikv/tikv](https://github.com/tikv/tikv)**: distributed transactional key-value database
