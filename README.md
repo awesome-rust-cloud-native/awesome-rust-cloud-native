@@ -48,7 +48,7 @@ Thank you!
 - **[tremor-rs/tremor-runtime](https://github.com/tremor-rs/tremor-runtime)**: an event processing system that supporting complex workflows such as aggregation, rollups, an ETL language, and a query language
 - **[valeriansaliou/sonic](https://github.com/valeriansaliou/sonic)**: fast, lightweight & schema-less search backend
 - **[virtainer/cloud-image-inspector](https://github.com/virtainer/cloud-image-inspector)**: read-only inspection of qcow2/raw cloud disk images (OS, init system, sshd, cloud-init, installed packages) without booting or mounting them; ext4/XFS/btrfs, zero dependencies
-- **[virtainer/virtainer-guest-agent](https://github.com/virtainer/virtainer-guest-agent)**: QEMU Guest Agent-compatible agent for x86_64 Linux VMs on Cloud Hypervisor, reached over vsock and shipped as a single static binary
+- **[virtainer/virtainer-guest-agent](https://github.com/virtainer/virtainer-guest-agent)**: a modern guest agent for Linux and Windows virtual machines that speaks the QEMU Guest Agent protocol over vsock
 - **[WasmEdge/WasmEdge](https://wasmedge.org)**: WasmEdge is a high-performance WebAssembly (Wasm) Virtual Machine (VM) runtime, which enables serverless functions to be embedded into any software platform; from cloud's edge to SaaS to automobiles
 
 ### Libraries
