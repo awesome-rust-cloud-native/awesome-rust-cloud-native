@@ -46,6 +46,7 @@ Thank you!
 - **[rancher-sandbox/lockc](https://github.com/rancher-sandbox/lockc)**: eBPF-based MAC security audit for container workloads
 - **[tikv/tikv](https://github.com/tikv/tikv)**: distributed transactional key-value database
 - **[tremor-rs/tremor-runtime](https://github.com/tremor-rs/tremor-runtime)**: an event processing system that supporting complex workflows such as aggregation, rollups, an ETL language, and a query language
+- **[unxsist/jet-pilot](https://github.com/unxsist/jet-pilot)**: Kubernetes desktop client built on `kube-rs` and Tauri, with multi-cluster views, a resource graph, structured logs and a built-in kubectl terminal
 - **[valeriansaliou/sonic](https://github.com/valeriansaliou/sonic)**: fast, lightweight & schema-less search backend
 - **[WasmEdge/WasmEdge](https://wasmedge.org)**: WasmEdge is a high-performance WebAssembly (Wasm) Virtual Machine (VM) runtime, which enables serverless functions to be embedded into any software platform; from cloud's edge to SaaS to automobiles
 
