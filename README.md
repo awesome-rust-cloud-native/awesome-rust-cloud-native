@@ -27,6 +27,7 @@ Thank you!
 
 ### Applications and Services
 
+- **[100monkeys-ai/aegis-orchestrator](https://github.com/100monkeys-ai/aegis-orchestrator)**: AEGIS by 100monkeys.ai, a self-hosted orchestrator that runs autonomous agents in isolated, policy-enforced runtimes with durable FSM state (AGPL-3.0, in beta)
 - **[apache/incubator-teaclave](https://github.com/apache/incubator-teaclave)**: open source universal secure computing platform, making computation on privacy-sensitive data safe and simple
 - **[bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket)**: an operating system designed for hosting containers
 - **[containers/krunvm](https://github.com/containers/krunvm)**: manage lightweight VMs created from OCI images
