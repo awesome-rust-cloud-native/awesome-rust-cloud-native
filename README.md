@@ -29,6 +29,7 @@ Thank you!
 
 - **[apache/incubator-teaclave](https://github.com/apache/incubator-teaclave)**: open source universal secure computing platform, making computation on privacy-sensitive data safe and simple
 - **[bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket)**: an operating system designed for hosting containers
+- **[brekkylab/virtx](https://github.com/brekkylab/virtx)**: open source microVM runtime that runs disposable Linux VMs from Rust, Python or Node.js code, with no Docker or daemon
 - **[containers/krunvm](https://github.com/containers/krunvm)**: manage lightweight VMs created from OCI images
 - **[containers/youki](https://github.com/containers/youki)**: a container runtime written in Rust
 - **[datafuselabs/datafuse](https://github.com/datafuselabs/datafuse)**: A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy
